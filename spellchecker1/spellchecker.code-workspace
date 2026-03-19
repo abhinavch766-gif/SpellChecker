@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "spellchecker",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
